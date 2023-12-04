@@ -1,0 +1,47 @@
+/* DATA DESCRIPTION:
+Citation:	Roberts, Sarah L; Swann, George E A; McGowan, Suzanne; Panizzo, Virginia N; Vologina, Elena G; Sturm, Michael; Mackay, Anson W (2019): Lake Baikal diatom assemblage data from the sediment core BAIK13-7A covering the last 200 years. PANGAEA, https://doi.org/10.1594/PANGAEA.897258, 
+	In supplement to: Roberts, SL et al. (2018): Diatom evidence of 20th century ecosystem change in Lake Baikal, Siberia. PLoS ONE, 13(12), e0208765, https://doi.org/10.1371/journal.pone.0208765
+Further details:	Mackay, Anson W; Flower, R J; Kuzmina, A E; Granina, L Z; Rose, Neil L; Appleby, Peter G; Boyle, J F; Battarbee, Richard (1998): Diatom succession trends in recent sediments from Lake Baikal and their relation to atmospheric pollution and to climate change. Philosophical Transactions of the Royal Society B-Biological Sciences, 353(1371), 1011-1055, https://doi.org/10.1098/rstb.1998.0264
+Coverage:	LATITUDE: 51.568330 * LONGITUDE: 104.528610
+	MINIMUM DEPTH, sediment/rock: 0.0010 m * MAXIMUM DEPTH, sediment/rock: 0.0417 m
+Event(s):	BAIK13-7A * LATITUDE: 51.568330 * LONGITUDE: 104.528610 * Lake water depth: 1080 m * Recovery: 0.475 m * LOCATION: Lake Baikal, Russia * METHOD/DEVICE: Piston corer, UWITEC (PCUWI) * COMMENT: Sediment core collected in 2013 AD.
+Parameter(s):	DEPTH, sediment/rock [m] (Depth sed) * GEOCODE * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk)
+	AGE [ka BP] (Age) * GEOCODE * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk)
+	Age [a AD/CE] (Age) * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk) * METHOD/DEVICE: Age, ²¹⁰Pbₓₛ/¹³⁷Cs Lead-Caesium * COMMENT: Year (CE)
+	Aulacoseira baicalensis [%] (A. baicalensis) * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk) * METHOD/DEVICE: Counting, diatoms
+	Aulacoseira skvortzowii [%] (A. skvortzowii) * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk) * METHOD/DEVICE: Counting, diatoms
+	Synedra spp. [%] (Synedra spp.) * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk) * METHOD/DEVICE: Counting, diatoms
+	Cyclotella minuta [%] (C. minuta) * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk) * METHOD/DEVICE: Counting, diatoms * COMMENT: incl. C. ornata
+	Crateriportula inconspicua [%] (C. inconspicua) * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk) * METHOD/DEVICE: Counting, diatoms
+	Stephanodiscus meyeri [%] (S. meyeri) * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk) * METHOD/DEVICE: Counting, diatoms
+	Diatoms, total valves, per unit sediment dry mass [10**6 #/g] (TDVA) * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk) * METHOD/DEVICE: Counting, diatoms
+	Diatom dissolution index (DDI) * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk)
+	Reference/source (Reference) * PI: Swann, George E A (https://orcid.org/0000-0002-4750-9504, george.swann@nottingham.ac.uk)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Size:	238 data points
+*/
+Depth sed [m]	Age [ka BP]	Age [a AD/CE]	A. baicalensis [%]	A. skvortzowii [%]	Synedra spp. [%]	C. minuta [%]	C. inconspicua [%]	S. meyeri [%]	TDVA [10**6 #/g]	DDI	Reference
+0.0010	-0.063	2013	33.44	8.85	13.44	27.87	0.00	0.33	3.5288	0.19	Roberts et al (2018)
+0.0030	-0.061	2011	33.66	8.82	17.65	26.80	0.00	0.33	3.1649	0.20	Roberts et al (2018)
+0.0050	-0.059	2009	34.05	9.26	11.57	30.74	0.00	0.66	1.7890	0.19	Roberts et al (2018)
+0.0070	-0.056	2006	27.50	13.42	12.11	31.42	0.65	0.00	1.4893	0.16	Roberts et al (2018)
+0.0090	-0.053	2003	25.40	10.36	13.59	25.89	0.00	2.27	2.5340	0.21	Roberts et al (2018)
+0.0110	-0.048	1998	33.77	10.87	6.59	40.53	0.00	0.00	2.7790	0.22	Roberts et al (2018)
+0.0127	-0.044	1994	33.85	11.50	5.75	31.64	4.42	2.88	0.9847	0.63	Mackay et al (1998)
+0.0130	-0.043	1993	31.68	13.53	6.44	29.04	0.99	1.32	4.1937	0.20	Roberts et al (2018)
+0.0140	-0.040	1990	36.20	13.29	7.77	26.38	2.86	4.91	2.0257	0.57	Mackay et al (1998)
+0.0150	-0.037	1987	33.39	12.33	11.13	26.03	1.37	3.08	3.4299	0.17	Roberts et al (2018)
+0.0155	-0.036	1986	37.32	11.95	10.90	24.74	3.77	4.61	3.0637	0.57	Mackay et al (1998)
+0.0170	-0.031	1981	26.92	12.21	12.68	32.55	0.00	0.94	5.4080	0.63	Roberts et al (2018)
+0.0187	-0.025	1975	40.60	10.57	9.40	24.16	2.35	6.04	3.8248	0.68	Mackay et al (1998)
+0.0190	-0.024	1974	25.37		13.34	38.55	0.00	2.64	4.9433		Roberts et al (2018)
+0.0205	-0.018	1968	37.40	14.76	6.69	22.44	3.54	7.28	4.6504	0.69	Mackay et al (1998)
+0.0222	-0.011	1961	39.78	11.33	5.33	29.11	2.00	6.89	4.5592	0.58	Mackay et al (1998)
+0.0238	-0.004	1954	42.83	11.27	5.94	25.20	1.43	5.53	4.0805	0.66	Mackay et al (1998)
+0.0257	0.005	1945	41.56	12.14	3.50	23.87	1.65	10.29	5.4954	0.64	Mackay et al (1998)
+0.0273	0.013	1937	30.46	17.44	3.09	33.55	2.65	7.28	4.9668	0.67	Mackay et al (1998)
+0.0296	0.026	1924	37.19	8.86	3.85	27.94	3.47	7.71	6.2162	0.57	Mackay et al (1998)
+0.0317	0.038	1912	34.20	7.81	3.72	34.39	2.60	7.81	6.8626	0.60	Mackay et al (1998)
+0.0335	0.050	1900	35.95	10.46	1.96	31.81	3.05	4.58	6.7102	0.60	Mackay et al (1998)
+0.0374	0.076	1874	33.27	7.66	2.43	40.37	3.18	3.74	7.8367	0.66	Mackay et al (1998)
+0.0417	0.108	1842	27.73	6.11	2.62	51.09	3.49	1.31	6.0923	0.70	Mackay et al (1998)
